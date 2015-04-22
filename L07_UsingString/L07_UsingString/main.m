@@ -19,6 +19,4 @@ int main(int argc, char * argv[]) {
     NSString *str2 = [NSString stringWithContentsOfURL:[NSURL URLWithString:@"http://www.baidu.com"] encoding:NSUTF8StringEncoding error:nil];
     NSLog(@"%@",str2);
     
-    NSString stringWithContentsOfURL:<#(NSURL *)#> encoding:(NSStringEncoding) error:<#(NSError *__autoreleasing *)#>
-    NSStringEncoding
 }
