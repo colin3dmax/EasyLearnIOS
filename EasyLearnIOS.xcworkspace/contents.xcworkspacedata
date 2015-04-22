@@ -1,27 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:L03_CustomView/L03_CustomView.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:L02ProgressControl/L02ProgressControl.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:L01CustomControls/L01CustomControls.xcodeproj">
-   </FileRef>
-   <Group
-      location = "container:"
-      name = "Draw">
-      <FileRef
-         location = "group:DrawDemo/DrawDemo.xcodeproj">
-      </FileRef>
-   </Group>
    <Group
       location = "container:"
       name = "Getting Started">
       <FileRef
          location = "group:Bull&apos;sEye/Bull&apos;sEye.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "iOS&#xff0d;Quraz2D">
+      <FileRef
+         location = "group:DrawDemo/DrawDemo.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L01CustomControls/L01CustomControls.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L02ProgressControl/L02ProgressControl.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L03_CustomView/L03_CustomView.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Objective-C&#x8bed;&#x8a00;&#x57fa;&#x7840;">
+      <FileRef
+         location = "group:Hello_Objective_C/Hello_Objective_C.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L02_CallMethod/L02_CallMethod.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L03_Include/L03_Include.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L04_OCClass/L04_OCClass.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L05_SetAndGet/L05_SetAndGet.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L06_FactoryMethod/L06_FactoryMethod.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L07_UsingString/L07_UsingString.xcodeproj">
       </FileRef>
    </Group>
 </Workspace>
