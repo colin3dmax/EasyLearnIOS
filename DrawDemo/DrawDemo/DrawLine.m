@@ -40,5 +40,11 @@ void drawline(){
     CGContextAddLineToPoint(context, 10, 300);
     
     CGContextStrokePath(context);
+    
+    
+    NSString *test=@"Hello";
+    NSDictionary *dict=[[NSDictionary alloc]init];
+    [test drawInRect:CGRectMake(0, 0, 100, 50) withAttributes:dict];
+    
 }
 @end

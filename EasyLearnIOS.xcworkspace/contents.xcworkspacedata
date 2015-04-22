@@ -48,5 +48,29 @@
       <FileRef
          location = "group:L07_UsingString/L07_UsingString.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:L10_UsingArray/L10_UsingArray.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L11_NSMutableArray/L11_NSMutableArray.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L12_UsingDict/L12_UsingDict.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L14_CodeBlock/L14_CodeBlock.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L15_Protocal/L15_Protocal.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L16_Delegate/L16_Delegate.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L17_Types/L17_Types.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:L18_Exception/L18_Exception.xcodeproj">
+      </FileRef>
    </Group>
 </Workspace>
